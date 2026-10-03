@@ -1,0 +1,10 @@
+REFERENCE OUTPUT PREVIEW
+
+Dataset dimensions: 891 rows x 15 columns
+Missing values (training-style Titanic data):
+Age       177
+Cabin     687
+Embarked    2
+Overall survival rate: 38.38%
+
+Note: Run scripts/01_download_data.R and scripts/02_clean_and_eda.R in R/RStudio to regenerate the exact outputs and plots from the source CSV.

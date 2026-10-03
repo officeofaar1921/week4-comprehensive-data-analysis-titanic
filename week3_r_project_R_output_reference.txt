@@ -1,0 +1,27 @@
+Week 3 Statistical Analysis Output
+Observations: 891
+Missing values:
+pclass        0
+sex           0
+age         177
+sibsp         0
+parch         0
+fare          0
+embarked      2
+
+Chi-square sex vs survival: chi-square=260.7170, df=1, p=1.19736e-58
+Welch t-test age by survival: t=-2.0460, p=0.0411897
+Mean age survivors=28.344; non-survivors=30.626
+Shapiro-Wilk age: W=0.9815, p=7.33735e-08
+Pearson age/fare: r=0.0961, p=0.0102163
+Spearman age/fare: rho=0.1351, p=0.000295809
+
+5-fold stratified logistic regression:
+Accuracy: 0.7924
+Precision: 0.7401
+Recall: 0.7076
+F1 Score: 0.7235
+ROC-AUC: 0.8509
+Confusion matrix:
+[[464  85]
+ [100 242]]

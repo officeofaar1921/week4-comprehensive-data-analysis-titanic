@@ -1,0 +1,1 @@
+Titanic dataset used consistently across Weeks 1-4. The final report integrates cleaning, visualization, statistical analysis and predictive modeling.

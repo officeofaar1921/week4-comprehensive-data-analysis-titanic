@@ -1,0 +1,5 @@
+Week 2 R visualization output reference
+
+The project includes high-resolution PNGs corresponding to the ggplot2 code in scripts/01_visualization_analysis.R.
+
+The code is designed to reproduce the charts in R/RStudio using the included titanic.csv dataset.
